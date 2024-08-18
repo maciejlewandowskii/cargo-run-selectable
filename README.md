@@ -18,7 +18,7 @@ As a result, this utility is best suited for Unix-like operating systems such as
 
 ## Installation
 
-You can install this utility directly from [crates.io](https://crates.io/) using `cargo` or `binstall`.
+You can install this utility directly from [crates.io](https://crates.io/crates/cargo-run-selectable) using `cargo` or `binstall`.
 ### Using `cargo install`:
 
 ```bash
