@@ -1,6 +1,9 @@
 [package]
 name = "cargo-run-selectable"
 license = "MIT"
+authors = ["Maciej Lewandowski <maciej4612@gmail.com>"]
+categories = ["development-tools"]
+description = "A simple Rust utility that helps developers run `cargo run` in workspaces with multiple binary targets without needing to specify one beforehand. When you run the program, it will prompt you to select a target from the list of available binary targets in the workspace."
 repository = "https://github.com/maciejlewandowskii/cargo-run-selectable"
 version = "0.1.0"
 edition = "2021"
