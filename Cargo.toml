@@ -1,5 +1,7 @@
 [package]
 name = "cargo-run-selectable"
+license = "MIT"
+repository = "https://github.com/maciejlewandowskii/cargo-run-selectable"
 version = "0.1.0"
 edition = "2021"
 
